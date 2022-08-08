@@ -1,0 +1,20 @@
+[
+    {
+        "image":"https://via.placeholder.com/400x300",
+        "imageAlt":"",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis nec nisi at accumsan. Nullam tincidunt arcu quis ante consectetur, consectetur eleifend purus facilisis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "redirectLink": ""
+    },
+    {
+        "image":"https://via.placeholder.com/400x300",
+        "imageAlt":"",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis nec nisi at accumsan. Nullam tincidunt arcu quis ante consectetur, consectetur eleifend purus facilisis.",
+        "redirectLink": ""
+    },
+    {
+        "image":"https://via.placeholder.com/400x300",
+        "imageAlt":"",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis nec nisi at accumsan. Nullam tincidunt arcu quis ante consectetur, consectetur eleifend purus facilisis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Maecenas commodo, quam in lacinia semper,",
+        "redirectLink": ""
+    }
+]
